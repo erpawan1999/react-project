@@ -21,6 +21,7 @@ const Topbar = () => {
                 <label ><a href="/">Sign In</a></label>
                 <label ><button className="btn">Share My Work</button> </label>
         </div>
+        <div className="itemnumber">Design files are ready</div>
     </div>
   )
 }

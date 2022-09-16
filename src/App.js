@@ -10,7 +10,7 @@ function App() {
      <Lowerbar/>
      <Footer/>
     </>
-     
+     // comment are given below 
   )
 }
 
