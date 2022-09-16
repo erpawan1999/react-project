@@ -14,5 +14,6 @@ const Footer = () => {
     </div>
   )
 }
+// footer.jsx modified 
 
 export default Footer;
