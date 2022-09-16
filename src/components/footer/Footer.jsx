@@ -10,6 +10,7 @@ const Footer = () => {
         <label> <CopyrightIcon/> 2022 Dribble. All right reserved</label>
       </div>
       <div className="footer2">Pawan</div>
+      <div className="footer3">Hello World </div>
     </div>
   )
 }

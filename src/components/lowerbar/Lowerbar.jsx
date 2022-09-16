@@ -89,7 +89,7 @@ const Lowerbar = () => {
           <li className="item1">Design Industry Trends</li>
         </ul>
       </div>
-      
+      <div className="temperate">Hello World</div>
     </div>
   );
 };
