@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.listitem{
+    list-style: none;
+    display: flex;
+}
+
+.item{
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.topbar{
+    background-color: white;
+    height: 70px;
+    border-bottom: 1px solid wheat;
+    padding-bottom: 15px; 
+    display: flex;
+    position: relative;
+
+}
+.specialitem{
+    margin-right: 34px;
+    font-family:fantasy;
+    cursor: pointer;
+    font-size: 15px;
+}
+.topbarmenu{
+    padding-top: 35px;
+    display: flex;
+    position: absolute;
+    left: 35px;
+    padding-left: 20px;
+}
+div a{
+    text-decoration: none;
+}
+.btn{
+    margin-left: 20px;
+    cursor: pointer;
+    color:white;
+    background-color:brown ;
+    border-radius: 5px;
+    height: 30px;
+}
+.btn:hover{
+    background-color: coral;
+}
+.rightbar{
+    margin-right: 20px;  
+    position: absolute;
+    right: 35px;
+    padding-top: 25px;
+    flex: 2;
+}

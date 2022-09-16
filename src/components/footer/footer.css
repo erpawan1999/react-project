@@ -1,0 +1,15 @@
+.footers{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 25px;
+    position: relative;
+}
+.footer1{
+     position: absolute;
+     left: 40px;  
+     align-items: center;
+}
+.footer2{
+    position: absolute;
+    right: 40px; 
+}
